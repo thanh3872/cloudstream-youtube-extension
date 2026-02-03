@@ -1,0 +1,9 @@
+{
+  "main": "com.thanh3872.youtube.YouTubeProvider",
+  "name": "YouTube",
+  "version": "1.0.0",
+  "description": "Watch YouTube videos in CloudStream",
+  "id": "com.thanh3872.youtube",
+  "lang": "en",
+  "repo": "https://github.com/thanh3872/cloudstream-youtube-extension"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "thanh3872's YouTube Extension",
+  "description": "YouTube extension for CloudStream 3",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/thanh3872/cloudstream-youtube-extension/main/plugins.json"
+  ]
+}
